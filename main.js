@@ -35,10 +35,10 @@ document.querySelectorAll('.start-links .link').forEach(el => {
       preview.style.display = 'none'; // Preview & Index sollen verschwinden
       dynamic.innerHTML = `
         <div class="info-block">
-          <p>Kai Leah Sascha Krämer aka kitschkai aka Gender Panik is an artist & gender pirate, currently based in Leipzig. Coming from performance art, writing and literature studies, and informed deeply by trans*feminism, Punk and Drag, they examine how words and acts sustain power structures and where their performative potential lies. Interested in the body, its relationships to others, its emotions and how they become places of sociopolitical agency. Looking for laughter, joy and resistance.</p> 
-          <p>Active on and behind the stage, they developed, collaborated and assisted in solo and group performances, theater productions, magazines plus making visual artworks, such as graphics and paintings.</p>
-          <p>Study biography: studying Fine Arts and Art Education (B.F.A.) at the Academy for Fine Arts in Stuttgart (Akademie der Bildenden Künste Stuttgart) plus German Studies at University of Stuttgart (2016-2021) / Body, Theory and the Poetics of the Performative (M.F.A.) at ABK Stuttgart (2021-2024) / German Studies and Literature Studies (M.A.) University Leipzig (since 2024)</p>
-          <p>In the past years learning from and working with Discoteca Flaming Star (Cristina Gómez-Barrio & Wolfgang Mayer), Paula Kohlmann, Sergio Zevallos, Ines Kleesattel, Niall Jones, Liz Rosenfeld, Yara Richter, Toni Böckle, Stella Ruszkowski, Ludgi Porto, Moriz Stangl, Mona Gablenz, Mara Engelsberger, Aline Xavier Mineiro, Madeleine Bovidae, Una Herbst, Lea Lenk, Vesna Hetzel, Rainer Ganahl, Iris Eckert, Anne-Marie Herda and others.</p>
+          <p>Kai Leah Sascha Krämer aka kitschkai aka Gender Panik is an artist & gender pirate, currently based in Leipzig. Coming from performance art, poetic writing and literature studies, and informed deeply by trans*feminism, Punk and Drag, they examine how words and acts sustain power structures and where their performative potential lies. Interested in the body, its relationships to others, its emotions and how they become places of sociopolitical agency. Looking for laughter, joy and resistance.</p> 
+          <p>Active on and behind stages, they developed, collaborated and assisted in solo and group performances, theater productions, magazines plus making visual artworks, such as graphics and paintings.</p>
+          <p>Kai studied Performance Art and Art Education, German and Literature Studies in Stuttgart and Leipzig. Btw., they're also a certified Sex Educator (Biko Berlin).</p>
+          <p>Thanks to all the people I learned from & with. Teachers, pupils, colleagues, friends, lovers, family, ephemeral encounters.</p>
         </div>
       `;
     }
@@ -65,9 +65,9 @@ function buildProjectCategories() {
   return `
     <div class="category" data-cat="performance">Performance + Text</div>
     <div class="project-list" data-list="performance">
-      <div class="project-item" data-key="dragking">Autorschaft ist DragKing (2025)</div>
       <div class="project-item" data-key="knutschen">KNUTSCHEN IST WICHTIGER ALS DEUTSCHLAND (2024 ongoing)</div>
-<div class="project-item" data-key="cassandra">KASSANDRA • choose the truth (2024-2025)</div>
+      <div class="project-item" data-key="dragking">Autorschaft ist DragKing (2025)</div>
+      <div class="project-item" data-key="cassandra">KASSANDRA • choose the truth (2024-2025)</div>
       <div class="project-item" data-key="pirates">INTIMACY PIRATES (2024)</div>
       <div class="project-item" data-key="depersona">DEPERSONA (2024)</div>
       <div class="project-item" data-key="words">(WORDS) Ich will Nein sagen (2024)</div>
@@ -78,27 +78,20 @@ function buildProjectCategories() {
       <div class="project-item" data-key="edging">edging the self (2022-2023)</div>
     </div>
 
-    <div class="category" data-cat="visuals">Visual Art + Grafik</div>
-    <div class="project-list" data-list="visuals">
-      <div class="project-item" data-key="grwl">grwl: Bodies and Monsters (2025)</div>
-      <div class="project-item" data-key="eckert">ECKERT (2025)</div>
-      <div class="project-item" data-key="figure">A figure (Collab. mit Vanessa Rukh) (2025)</div>
-      <div class="project-item" data-key="kwadbilder">Knutschen ist wichtiger als Deutschland (2023)</div>
-      <div class="project-item" data-key="jazzkabinett">Jazzkabinett Stuttgart (2024)</div>
-      <div class="project-item" data-key="drawings">drawings (ongoing)</div>
-    </div>
-
     <div class="category" data-cat="bildung">Bildung + Netzwerk</div>
     <div class="project-list" data-list="bildung">
+      <div class="project-item" data-key="transfem">Heteromononormativiwas ...? Sexualpädagogisches Material (2026)</div>
       <div class="project-item" data-key="transfem">transfem0711 (2023-2024)</div>
       <div class="project-item" data-key="cuteartsy">cute&artsy (2021-2023)</div>
       <div class="project-item" data-key="matratze">MATRATZE MAGAZIN (2018-2023)</div>
     </div>
 
-    <div class="category" data-cat="theater">Theater</div>
-    <div class="project-list" data-list="theater">
+    <div class="category" data-cat="other">Mixed other things</div>
+    <div class="project-list" data-list="other">
       <div class="project-item" data-key="universum">Kostüm 'Das hässliche Universum' (2026)</div>
       <div class="project-item" data-key="rombo">Regie-Assistenz 'ROMBO' (2026)</div>
+      <div class="project-item" data-key="eckert">ECKERT (2025)</div>
+      <div class="project-item" data-key="jazzkabinett">Jazzkabinett Stuttgart (2024)</div>
     </div>
   `;
 }
@@ -148,14 +141,12 @@ function showProjectPreview(key) {
     'knutschen': {
       title: 'KNUTSCHEN IST WICHTIGER ALS DEUTSCHLAND',
       year: '2024 — ongoing',
-      desc: '[Stage Name: (Kai) Gender Panik] A working process in the neccessity and privilege to feel. Dealing with fragility, desire, shame and trust, queering the own body and relationships. Performances containing own writing and songs (mostly german), DJing, Drag. Performances in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig), Dieski44 (Leipzig), das anarchistische Wohnzimmer @ helmut.space (Leipzig)',
+      desc: '[Stage Name: (Kai) Gender Panik] A working process in the neccessity and privilege to feel. Dealing with fragility, desire, shame and trust, queering the own body and relationships. Performances containing own writing and songs (mostly german), DJing, Drag. Performances in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig), Dieski44 (Leipzig), das anarchistische Wohnzimmer @ helmut.space (Leipzig), Ha Ha Haltung (a program by die apokalyptischen Tänzeri*nnen) @ Reniteztheater (Stuttgart). Publication in COllaboration with ccharm studio coming up',
       images: [
         { src: 'images/knutschen_6.jpeg', meta: 'Studioaufnahme, 2025' },
         { src: 'images/knutschen_4.JPG', meta: 'Dokumentation Performance Dieski44, 2025' },
         { src: 'images/knutschen_5.jpg', meta: 'Dokumentation Performance helmut.space, 2025' },
-        { src: 'images/knutschen_1.jpg', meta: 'Studioaufnahme, 2025' },
-        { src: 'images/knutschen_2.jpg', meta: 'Dokumentation Performance KKT, 2024 (c) Mona Gablenz' },
-        { src: 'images/knutschen_3.jpg', meta: 'Dokumentation Performance Wxssxrschxdxn, 2025' },
+        { src: 'images/knutschen_2.jpg', meta: 'Dokumentation Performance KKT, 2024 (c) Mona Gablenz' }
       ]
     },
     'cassandra': {
@@ -415,12 +406,13 @@ function buildUpcoming() {
   return `
     <div class="info-box">
     <p>Upcoming / Aktuelles (für mehr Info zu einzelnen Events gerne eine Mail oder dm auf Instagram)</p>
-    <p><a href="https://www.instagram.com/dieski_44?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>6.12.25</strong> Performance in Leipzig @Dieski44</div></p>
-    <p><a href="https://www.instagram.com/das_anarchistische_wohnzimmer?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>20.12.25</strong> Performance in Leipzig (dm for location)</div></p>
-    <p><a href="https://www.adk-bw.de/veranstaltung/bedrohte-gegenwarten-werkstatt"><strong>12.2.26 Premiere</strong> Das hässliche Universum (Kostüm mit Wiebke Müller)<div></p>
+    <p><a href="https://www.apocalypse.dance/projekte/ha-ha-haltung-2026"><strong>23.6.26</strong>Knutschen ist wichtiger als Deutschland zu Gast bei Ha Ha Haltung (Renitenztheater Stuttgart)</a></p>
+    <p><a href="https://www.instagram.com/jenny_literatur?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>Juni 26</strong> Publication of "Be A Person (R)" (text) in JENNY Literaturmagazin</a></p>
     <p><a href="https://theaterakademie.de/de/theater/programm/rombo"><strong>4.3.26 Premiere</strong> ROMBO (Regie-Assistenz)<div></p>
-    <p><a href="https://www.instagram.com/jenny_literatur?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>2026</strong> Release of text publication in JENNY Literaturmagazin</a></p>
-     <p style="margin-top:10px; opacity:.6; font-size:.85rem;">(more soon)</p>
+    <p><a href="https://www.adk-bw.de/veranstaltung/bedrohte-gegenwarten-werkstatt"><strong>12.2.26 Premiere</strong> Das hässliche Universum (Kostüm mit Wiebke Müller)<div></p>
+    <p><a href="https://www.instagram.com/das_anarchistische_wohnzimmer?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>20.12.25</strong> Performance in Leipzig (dm for location)</div></p>
+    <p><a href="https://www.instagram.com/dieski_44?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>6.12.25</strong> Performance in Leipzig @Dieski44</div></p>
+    <p style="margin-top:10px; opacity:.6; font-size:.85rem;">(more soon)</p>
     </div>
   `;
 }
