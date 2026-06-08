@@ -141,7 +141,8 @@ function showProjectPreview(key) {
     'knutschen': {
       title: 'KNUTSCHEN IST WICHTIGER ALS DEUTSCHLAND',
       year: '2024 — ongoing',
-      desc: '[Stage Name: (Kai) Gender Panik] A working process in the neccessity and privilege to feel. Dealing with fragility, desire, shame and trust, queering the own body and relationships. Performances containing own writing and songs (mostly german), DJing, Drag. Performances in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig), Dieski44 (Leipzig), das anarchistische Wohnzimmer @ helmut.space (Leipzig), Ha Ha Haltung (a program by die apokalyptischen Tänzeri*nnen) @ Reniteztheater (Stuttgart). Publication in COllaboration with ccharm studio coming up',
+      desc: '[Stage Name: (Kai) Gender Panik] A working process in the neccessity and privilege to feel. Dealing with fragility, desire, shame and trust, queering the own body and relationships. Performances containing own writing and songs (mostly german), DJing, Drag. Performances in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig), Dieski44 (Leipzig), das anarchistische Wohnzimmer @ helmut.space (Leipzig), Ha Ha Haltung (a program by die apokalyptischen Tänzeri*nnen) @ Reniteztheater (Stuttgart). ++++ Publication in Collaboration with ccharm studio coming up ++++',
+      link: 'https://www.instagram.com/ccharm.studio/p/DX6N6jiDH1e/',
       images: [
         { src: 'images/knutschen_6.jpeg', meta: 'Studioaufnahme, 2025' },
         { src: 'images/knutschen_4.JPG', meta: 'Dokumentation Performance Dieski44, 2025' },
