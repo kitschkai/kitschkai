@@ -36,7 +36,7 @@ document.querySelectorAll('.start-links .link').forEach(el => {
       dynamic.innerHTML = `
         <div class="info-block">
           <p>Kai Leah Sascha Krämer aka kitschkai aka Gender Panik is an artist & gender pirate, currently based in Leipzig. Coming from performance art, poetic writing and literature studies, and informed deeply by trans*feminism, Punk and Drag, they examine how words and acts sustain power structures and where their performative potential lies. Interested in the body, its relationships to others, its emotions and how they become places of sociopolitical agency. Looking for laughter, joy and resistance.</p> 
-          <p>Active on and behind stages, they developed, collaborated and assisted in solo and group performances, theater productions, magazines plus making visual artworks, such as graphics and paintings.</p>
+          <p>Active on and behind stages, they developed, collaborated and assisted in solo and group performances, theater productions, magazines. They write poetic and provocative texts, sometimes to be sung, sometimes to be read. They're also making visual artworks.</p>
           <p>Kai studied Performance Art and Art Education, German and Literature Studies in Stuttgart and Leipzig. Btw., they're also a certified Sex Educator (Biko Berlin).</p>
           <p>Thanks to all the people I learned from & with. Teachers, pupils, colleagues, friends, lovers, family, ephemeral encounters.</p>
         </div>
