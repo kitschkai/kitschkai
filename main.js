@@ -407,12 +407,9 @@ function buildUpcoming() {
   return `
     <div class="info-box">
     <p>Aktuelles </p>
+    <p><a href="https://www.radio80k.de"><strong>Gender Kitsch Panik – alle zwei Monate auf Radio80000</strong></a></p>
     <p><a href="https://www.apocalypse.dance/projekte/ha-ha-haltung-2026"><strong>23.6.26</strong> Knutschen ist wichtiger als Deutschland zu Gast bei Ha Ha Haltung (Renitenztheater Stuttgart)</a></p>
     <p><a href="https://www.instagram.com/jenny_literatur?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>Juni 26</strong> Publication of "Be A Person (R)" (text) in JENNY Literaturmagazin</a></p>
-    <p><a href="https://theaterakademie.de/de/theater/programm/rombo"><strong>4.3.26 Premiere</strong> ROMBO (Regie-Assistenz)</div></p>
-    <p><a href="https://www.adk-bw.de/veranstaltung/bedrohte-gegenwarten-werkstatt"><strong>12.2.26 Premiere</strong> Das hässliche Universum (Kostüm mit Wiebke Müller)</div></p>
-    <p><a href="https://www.instagram.com/das_anarchistische_wohnzimmer?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>20.12.25</strong> Performance in Leipzig (dm for location)</div></p>
-    <p><a href="https://www.instagram.com/dieski_44?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>6.12.25</strong> Performance in Leipzig @Dieski44</div></p>
     <p style="margin-top:10px; opacity:.6; font-size:.85rem;">(more soon) für mehr Infos zu einzelnen Sachen auch gern email oder dm auf Intagram</p>
     </div>
   `;
