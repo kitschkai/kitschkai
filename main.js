@@ -407,7 +407,7 @@ function buildUpcoming() {
   return `
     <div class="info-box">
     <p>Aktuelles </p>
-    <p><a href="https://www.radio80k.de"><strong>Gender Kitsch Panik – alle zwei Monate auf Radio80000</strong></a></p><p><a href="https://soundcloud.com/radio80000/gender-kitsch-panik-09-06-26>-->letzte show</p>
+    <p><a href="https://www.radio80k.de"><strong>Gender Kitsch Panik – alle zwei Monate auf Radio80000</strong></a><a href="https://soundcloud.com/radio80000/gender-kitsch-panik-09-06-26>erste show 9.6.</a></p>
     <p><a href="https://www.apocalypse.dance/projekte/ha-ha-haltung-2026"><strong>23.6.26</strong> Knutschen ist wichtiger als Deutschland zu Gast bei Ha Ha Haltung (Renitenztheater Stuttgart)</a></p>
     <p><a href="https://www.instagram.com/jenny_literatur?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>Juni 26</strong> Publication of "Be A Person (R)" (text) in JENNY Literaturmagazin</a></p>
     <p style="margin-top:10px; opacity:.6; font-size:.85rem;">(more soon) für mehr Infos zu einzelnen Sachen auch gern email oder dm auf Intagram</p>
