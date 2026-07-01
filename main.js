@@ -141,13 +141,24 @@ function showProjectPreview(key) {
     'knutschen': {
       title: 'KNUTSCHEN IST WICHTIGER ALS DEUTSCHLAND',
       year: '2024 — ongoing',
-      desc: '[Stage Name: (Kai) Gender Panik] A working process in the neccessity and privilege to feel. Dealing with fragility, desire, shame and trust, queering the own body and relationships. Performances containing own writing and songs (mostly german), DJing, Drag. Performances in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig), Dieski44 (Leipzig), das anarchistische Wohnzimmer @ helmut.space (Leipzig), Ha Ha Haltung (a program by die apokalyptischen Tänzeri*nnen) @ Reniteztheater (Stuttgart). ++++ Publication in Collaboration with ccharm studio coming up ++++',
+      desc: '[Stage Name: (Kai) Gender Panik] A working process in the neccessity and privilege to feel. Es geht um um Leiden/schaft im high Performance capitalism, und es sind eine handvoll Songs mit Drag Show. Die Energy ist: ein bisschen Tragik, ein bisschen Narrenfreiheit, ein bisschen Kampfgeist. Performed in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig), Dieski44 (Leipzig), das anarchistische Wohnzimmer @ helmut.space (Leipzig), Ha Ha Haltung (a program by die apokalyptischen Tänzeri*nnen) @ Reniteztheater (Stuttgart). ++++ Publication in Collaboration with ccharm studio coming up ++++',
       link: 'https://www.instagram.com/ccharm.studio/p/DX6N6jiDH1e/',
       images: [
+        { src: 'images/knutschen_7.JPEG', meta: 'Pre-Show Ha Ha Haltung, 2026' },
         { src: 'images/knutschen_6.jpeg', meta: 'Studioaufnahme, 2025' },
         { src: 'images/knutschen_4.JPG', meta: 'Dokumentation Performance Dieski44, 2025' },
         { src: 'images/knutschen_5.jpg', meta: 'Dokumentation Performance helmut.space, 2025' },
         { src: 'images/knutschen_2.jpg', meta: 'Dokumentation Performance KKT, 2024 (c) Mona Gablenz' }
+      ]
+    },
+      'suess': {
+      title: 'süß',
+      year: '2025',
+      desc: 'A Fotoseries in collaboration with Vanessa Rukh. Dealing with feminity in the relationship to ones own body. Sexuality, belittlement, eating (disorder), desire. Break and own the gaze.',
+      images: [
+        { src: 'images/suess_1.jpg', meta: '(c) Vanessa Rukh, 2025' },
+        { src: 'images/suess_2.jpg', meta: '(c) Vanessa Rukh, 2025' },
+        { src: 'images/suess_3.jpg', meta: '(c) Vanessa Rukh, 2025' }
       ]
     },
     'cassandra': {
