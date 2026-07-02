@@ -66,6 +66,7 @@ function buildProjectCategories() {
     <div class="category" data-cat="performance">Performance + Text</div>
     <div class="project-list" data-list="performance">
       <div class="project-item" data-key="knutschen">KNUTSCHEN IST WICHTIGER ALS DEUTSCHLAND (2024 ongoing)</div>
+      <div class="project-item" data-key="suess (2025)</div>
       <div class="project-item" data-key="dragking">Autorschaft ist DragKing (2025)</div>
       <div class="project-item" data-key="cassandra">KASSANDRA • choose the truth (2024-2025)</div>
       <div class="project-item" data-key="pirates">INTIMACY PIRATES (2024)</div>
