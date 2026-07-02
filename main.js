@@ -81,7 +81,7 @@ function buildProjectCategories() {
 
     <div class="category" data-cat="bildung">Bildung + Netzwerk</div>
     <div class="project-list" data-list="bildung">
-      <div class="project-item" data-key="transfem">Heteromononormativiwas ...? Sexualpädagogisches Material (2026)</div>
+      <div class="project-item" data-key="heteronorm">Heteromononormativiwas ...? Sexualpädagogisches Material (2026)</div>
       <div class="project-item" data-key="transfem">transfem0711 (2023-2024)</div>
       <div class="project-item" data-key="cuteartsy">cute&artsy (2021-2023)</div>
       <div class="project-item" data-key="matratze">MATRATZE MAGAZIN (2018-2023)</div>
@@ -324,6 +324,16 @@ function showProjectPreview(key) {
       desc: 'A colletion of digital and analog drawings :3. ... coming soon',
       images: [
         { src: 'images/drawings_1.jpg', meta: 'title, 2024' }
+      ]
+    },
+     'heteronorm': {
+      title: 'transfem0711',
+      year: '2023-2024',
+      desc: 'Sexualpädagogisches Material für Jugendliche und Erwachsene, das an unterschiedliche Beziehungsformen heranführt. Mit spielerische Methode, um in Austausch und Reflektion über Wünsche, Bedürfnisse und Möglichkeiten von Beziehungsgestaltung zu kommen.',
+      images: [
+        { src: 'images/heteronorm_1.jpg', meta: 'Karte Wahfamilie vorne' },
+        { src: 'images/heteronorm_2.png', meta: 'Karte (Für)Sorge hinten' },
+        { src: 'images/heteronorm_3.png', meta: 'Karte Freund*innenschaft vorne' }
       ]
     },
     'transfem': {
