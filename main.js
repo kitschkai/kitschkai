@@ -66,7 +66,7 @@ function buildProjectCategories() {
     <div class="category" data-cat="performance">Performance + Text</div>
     <div class="project-list" data-list="performance">
       <div class="project-item" data-key="knutschen">KNUTSCHEN IST WICHTIGER ALS DEUTSCHLAND (2024 ongoing)</div>
-      <div class="project-item" data-key="suess (2025)</div>
+      <div class="project-item" data-key="suess">Süß (2025)</div>
       <div class="project-item" data-key="dragking">Autorschaft ist DragKing (2025)</div>
       <div class="project-item" data-key="cassandra">KASSANDRA • choose the truth (2024-2025)</div>
       <div class="project-item" data-key="pirates">INTIMACY PIRATES (2024)</div>
@@ -152,10 +152,10 @@ function showProjectPreview(key) {
         { src: 'images/knutschen_2.jpg', meta: 'Dokumentation Performance KKT, 2024 (c) Mona Gablenz' }
       ]
     },
-      'suess': {
+    'suess': {
       title: 'süß',
       year: '2025',
-      desc: 'A Fotoseries in collaboration with Vanessa Rukh. Dealing with feminity in the relationship to ones own body. Sexuality, belittlement, eating (disorder), desire. Break and own the gaze.',
+      desc: 'A Fotoseries in collaboration with Vanessa Rukh. Dealing with femininity in the relationship to ones own body. Sexuality, belittlement, eating (disorder), desire. Break and own the gaze.',
       images: [
         { src: 'images/suess_1.jpg', meta: '(c) Vanessa Rukh, 2025' },
         { src: 'images/suess_2.jpg', meta: '(c) Vanessa Rukh, 2025' },
@@ -327,7 +327,7 @@ function showProjectPreview(key) {
       ]
     },
      'heteronorm': {
-      title: 'transfem0711',
+      title: 'Heteromononormativiwas...?',
       year: '2023-2024',
       desc: 'Sexualpädagogisches Material für Jugendliche und Erwachsene, das an unterschiedliche Beziehungsformen heranführt. Mit spielerische Methode, um in Austausch und Reflektion über Wünsche, Bedürfnisse und Möglichkeiten von Beziehungsgestaltung zu kommen.',
       images: [
