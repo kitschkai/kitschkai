@@ -145,11 +145,11 @@ function showProjectPreview(key) {
       desc: '[Stage Name: (Kai) Gender Panik] A working process in the neccessity and privilege to feel. Es geht um um Leiden/schaft im high Performance capitalism, und es sind eine handvoll Songs mit Drag Show. Die Energy ist: ein bisschen Tragik, ein bisschen Narrenfreiheit, ein bisschen Kampfgeist. Performed in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig), Dieski44 (Leipzig), das anarchistische Wohnzimmer @ helmut.space (Leipzig), Ha Ha Haltung (a program by die apokalyptischen Tänzeri*nnen) @ Reniteztheater (Stuttgart). ++++ Publication in Collaboration with ccharm studio coming up ++++',
       link: 'https://www.instagram.com/ccharm.studio/p/DX6N6jiDH1e/',
       images: [
-        { src: 'images/knutschen_7.jpg', meta: 'Pre-Show Ha Ha Haltung, 2026' },
         { src: 'images/knutschen_6.jpeg', meta: 'Studioaufnahme, 2025' },
-        { src: 'images/knutschen_4.JPG', meta: 'Dokumentation Performance Dieski44, 2025' },
-        { src: 'images/knutschen_5.jpg', meta: 'Dokumentation Performance helmut.space, 2025' },
-        { src: 'images/knutschen_2.jpg', meta: 'Dokumentation Performance KKT, 2024 (c) Mona Gablenz' }
+        { src: 'images/knutschen_4.JPG', meta: 'Dokumentation Performance @Dieski44, 2025' },
+        { src: 'images/knutschen_5.jpg', meta: 'Dokumentation Performance @helmut.space, 2025' },
+        { src: 'images/knutschen_9.jpg', meta: 'Neues Schauspiel Leipzig, 2026' },
+        { src: 'images/knutschen_7.jpg', meta: 'Pre-Show Ha Ha Haltung, Renitenztheater Stuttgart, 2026' }
       ]
     },
     'suess': {
@@ -332,8 +332,8 @@ function showProjectPreview(key) {
       desc: 'Sexualpädagogisches Material für Jugendliche und Erwachsene, das an unterschiedliche Beziehungsformen heranführt. Mit spielerische Methode, um in Austausch und Reflektion über Wünsche, Bedürfnisse und Möglichkeiten von Beziehungsgestaltung zu kommen.',
       images: [
         { src: 'images/heteronorm_1.jpg', meta: 'Karte Wahfamilie vorne' },
-        { src: 'images/heteronorm_2.png', meta: 'Karte (Für)Sorge hinten' },
-        { src: 'images/heteronorm_3.png', meta: 'Karte Freund*innenschaft vorne' }
+        { src: 'images/heteronorm_2.jpg', meta: 'Karte (Für)Sorge hinten' },
+        { src: 'images/heteronorm_3.jpg', meta: 'Karte Freund*innenschaft vorne' }
       ]
     },
     'transfem': {
