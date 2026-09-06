@@ -142,7 +142,7 @@ function showProjectPreview(key) {
     'knutschen': {
       title: 'KNUTSCHEN IST WICHTIGER ALS DEUTSCHLAND',
       year: '2024 — ongoing',
-      desc: '[Stage Name: (Kai) Gender Panik] A working process in the neccessity and privilege to feel. Es geht um um Leiden/schaft im high Performance capitalism, und es sind eine handvoll Songs mit Drag Show. Die Energy ist: ein bisschen Tragik, ein bisschen Narrenfreiheit, ein bisschen Kampfgeist. Performed in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig), Dieski44 (Leipzig), das anarchistische Wohnzimmer @ helmut.space (Leipzig), Ha Ha Haltung (a program by die apokalyptischen Tänzeri*nnen) @ Reniteztheater (Stuttgart). ++++ Publication in Collaboration with ccharm studio coming up ++++',
+      desc: '[Stage Name: (Kai) Gender Panik] Is a repertoire of songs (spoken + sung) and a punkdrag show. Es geht um um Leiden/schaft im high Performance capitalism, ie Energy ist: ein bisschen Tragik, ein bisschen Narrenfreiheit, ein bisschen Kampfgeist. Performed in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig), Dieski44 (Leipzig), das anarchistische Wohnzimmer @ helmut.space (Leipzig), Ha Ha Haltung (a program by die apokalyptischen Tänzeri*nnen) @ Reniteztheater (Stuttgart), Makan Späti Leipzig. ++++ Publication in Collaboration with ccharm studio coming up ++++',
       link: 'https://www.instagram.com/ccharm.studio/p/DX6N6jiDH1e/',
       images: [
         { src: 'images/knutschen_6.jpeg', meta: 'Studioaufnahme, 2025' },
