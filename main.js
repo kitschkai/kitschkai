@@ -146,8 +146,8 @@ function showProjectPreview(key) {
       link: 'https://www.instagram.com/ccharm.studio/p/DX6N6jiDH1e/',
       images: [
         { src: 'images/knutschen_6.jpeg', meta: 'Studioaufnahme, 2025' },
-        { src: 'images/knutschen_4.JPG', meta: 'Dokumentation Performance @Dieski44, 2025' },
-        { src: 'images/knutschen_5.jpg', meta: 'Dokumentation Performance @helmut.space, 2025' },
+        { src: 'images/knutschen_10.jpg', meta: 'Dokumentation Performance Makan Leipzig, 2026' },
+        { src: 'images/knutschen_5.jpg', meta: 'Dokumentation Performance @helmut.space Leipzig, 2025' },
         { src: 'images/knutschen_9.jpg', meta: 'Neues Schauspiel Leipzig, 2026' },
         { src: 'images/knutschen_7.jpg', meta: 'Pre-Show Ha Ha Haltung, Renitenztheater Stuttgart, 2026' }
       ]
@@ -430,7 +430,8 @@ function buildUpcoming() {
     <div class="info-box">
     <p>Aktuelles </p>
     <p>Gender Kitsch Panik – alle zwei Monate auf<a href="https://www.radio80k.de"><strong> Radio80000</strong></a></p>
-    <p><a href="https://soundcloud.com/radio80000/gender-kitsch-panik-09-06-26"> +++ erste Show vom 9.6.+++ </a></p>
+    <p><a href="https://soundcloud.com/radio80000/gender-kitsch-panik-04-08-26#t=0:00"> +++ aktuelle Show vom 4.8.26+++ </a></p>
+    <p><a href=""><strong>5.9.26</strong> Show im Makan Späti Leipzig</a></p>
     <p><a href="https://www.instagram.com/p/DZcO0gMjK8U/?igsh=MXB2Z2xocmk2azl6MQ=="> Knutschen ist Wichtiger als Deutschland - Publikation (Collab. mit ccharm.studio)</a></p>
     <p><a href="https://www.apocalypse.dance/projekte/ha-ha-haltung-2026"><strong>23.6.26</strong> Knutschen ist wichtiger als Deutschland zu Gast bei Ha Ha Haltung (Renitenztheater Stuttgart)</a></p>
     <p><a href="https://www.instagram.com/jenny_literatur?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>Juni 26</strong> Publication of "Be A Person (R)" (text) in JENNY Literaturmagazin</a></p>
