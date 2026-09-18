@@ -79,20 +79,21 @@ function buildProjectCategories() {
       <div class="project-item" data-key="edging">edging the self (2022-2023)</div>
     </div>
 
-    <div class="category" data-cat="bildung">Bildung + Netzwerk</div>
+    <div class="category" data-cat="bildung">Mitarbeit, Projekte + Netzwerk</div>
     <div class="project-list" data-list="bildung">
-      <div class="project-item" data-key="heteronorm">Heteromononormativiwas ...? Sexualpädagogisches Material (2026)</div>
+      <div class="project-item" data-key="floodfictions">Flood Fictions / Futurs immergés (2026)</div>
+      <div class="project-item" data-key="rombo">Regie-Assistenz 'ROMBO' (2026)</div>
       <div class="project-item" data-key="transfem">transfem0711 (2023-2024)</div>
       <div class="project-item" data-key="cuteartsy">cute&artsy (2021-2023)</div>
       <div class="project-item" data-key="matratze">MATRATZE MAGAZIN (2018-2023)</div>
     </div>
 
-    <div class="category" data-cat="other">Mixed other things</div>
+    <div class="category" data-cat="other">Bildung + Gestaltung</div>
     <div class="project-list" data-list="other">
+      <div class="project-item" data-key="heteronorm">Heteromononormativiwas ...? Sexualpädagogisches Material (2026)</div>
       <div class="project-item" data-key="universum">Kostüm 'Das hässliche Universum' (2026)</div>
-      <div class="project-item" data-key="rombo">Regie-Assistenz 'ROMBO' (2026)</div>
       <div class="project-item" data-key="eckert">ECKERT (2025)</div>
-      <div class="project-item" data-key="jazzkabinett">Jazzkabinett Stuttgart (2024)</div>
+      <div class="project-item" data-key="jazzkabinett">Jazzkabinett Stuttgart (2024)</div>    
     </div>
   `;
 }
@@ -380,10 +381,21 @@ function showProjectPreview(key) {
     'rombo': {
       title: 'ROMBO',
       year: '2026',
-      desc: '(Abchlussarbeit Regie von Jakob Altmayer an der Hochschule für Musik und Theater München. Premiere 4.3.26)',
+      desc: 'Regieassistenz und Inspizienz bei Rombo (Abchlussarbeit Regie von Jakob Altmayer an der Hochschule für Musik und Theater München. Premiere 4.3.26)',
       link: '',
       images: [ 
 
+      ]
+    }, 
+      'floodfictions': {
+      title: 'Flood Fictions / Futurs immergés',
+      year: '2026',
+      desc: 'Interdisziplinäres künstlerisches Projekt, das sich mit dem Bewohnen der sich durch Klimawandel verändernden Zukunft, mit der Beudeutung von Wasser und kollektivem Zusammenleben darin beschäftigt. Initiiert von Libertalia e.V. Die zwei Phasen des Projekts im juli und September 2026 beinhalteten eine Residency, diverse Workshops und Performances.',
+      link: 'https://libertalia-kollektiv.eu/futurs-immerges-flood-fictions-kick-off/',
+      images: [ 
+         { src: 'images/floodfictions_1.jpg', meta: 'Dokumentation, Jul 26 (c) Libertalia Kollekitv' },
+         { src: 'images/floodfictions_2.jpg', meta: 'Dokumentation, Sep 26 (c) Libertalia Kollekitv' },
+         { src: 'images/floodfictions_3.jpg', meta: 'Dokumentation, Jul 26 (c) Libertalia Kollekitv' } 
       ]
     }
   };
