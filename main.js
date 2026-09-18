@@ -79,7 +79,7 @@ function buildProjectCategories() {
       <div class="project-item" data-key="edging">edging the self (2022-2023)</div>
     </div>
 
-    <div class="category" data-cat="bildung">Mitarbeit, Projekte + Netzwerk</div>
+    <div class="category" data-cat="bildung">Projekte + Netzwerk</div>
     <div class="project-list" data-list="bildung">
       <div class="project-item" data-key="floodfictions">Flood Fictions / Futurs immergés (2026)</div>
       <div class="project-item" data-key="rombo">Regie-Assistenz 'ROMBO' (2026)</div>
