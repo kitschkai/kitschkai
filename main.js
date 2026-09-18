@@ -394,8 +394,7 @@ function showProjectPreview(key) {
       link: 'https://libertalia-kollektiv.eu/futurs-immerges-flood-fictions-kick-off/',
       images: [ 
          { src: 'images/floodfictions_1.jpg', meta: 'Dokumentation, Jul 26 (c) Libertalia Kollekitv' },
-         { src: 'images/floodfictions_2.jpg', meta: 'Dokumentation, Sep 26 (c) Libertalia Kollekitv' },
-         { src: 'images/floodfictions_3.jpg', meta: 'Dokumentation, Jul 26 (c) Libertalia Kollekitv' } 
+         { src: 'images/floodfictions_2.jpg', meta: 'Dokumentation, Jul 26 (c) Libertalia Kollekitv' } 
       ]
     }
   };
