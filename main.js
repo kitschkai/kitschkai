@@ -173,13 +173,15 @@ function showProjectPreview(key) {
     'pirates': {
       title: 'INTIMACY PIRATES',
       year: '2024',
-      desc: 'Lecture Performance on a raft, starting on land with a short poetic introduction and activation of the audience. The text tells of anxieties and fear, anger, love and friendship and the capicity of letting go to meet anew. The work was created for the JETZT! Festival of Kulturregion Stuttgart, in cooperation with Kulturkabinett Stuttgart and performed three times at different stages of the raft’s travel. Reiterated in the course of the interdisciplinary Project <p><a href="https://libertalia-kollektiv.eu/futurs-immerges-flood-fictions-kick-off/"> "flood fictions / futurs immergés"</p>, in Hamburg 2026. Duration 1-1,5 h.',
+      desc: 'Lecture Performance on a raft, starting on land with a short poetic introduction and activation of the audience. The text tells of anxieties and fear, anger, love and friendship and the capicity of letting go to meet anew. The work was created for the JETZT! Festival of Kulturregion Stuttgart, in cooperation with Kulturkabinett Stuttgart and performed three times at different stages of the raft’s travel. Reiterated in the course of the interdisciplinary Project <p><a href="https://libertalia-kollektiv.eu/futurs-immerges-flood-fictions-kick-off/"> "flood fictions / futurs immergés"</p> by Libertalie Kollektiv, in Hamburg 2026. Duration 1-1,5 h.',
       link: 'https://www.kontextwochenzeitung.de/schaubuehne/704/piratinnen-der-intimitaet-9750.html',
       images: [
-        { src: 'images/pirates_1.jpg', meta: 'Dokumentation, 2024 (c) Dominique Brewing' },
-        { src: 'images/pirates_2.jpg', meta: 'Dokumentation, 2024 (c) Dominique Brewing' }, 
-        { src: 'images/pirates_3.jpg', meta: 'Dokumentation, 2024' },
-        { src: 'images/pirates_4.jpg', meta: 'Dokumentation, 2024 (c) Dominique Brewing' }
+        { src: 'images/pirates_6.jpg', meta: 'Dokumentation, Hamburg 2026 (c) Libertalia Kollektiv' },
+        { src: 'images/pirates_5.jpg', meta: 'Dokumentation, Hamburg 2026 (c) Libertalia Kollektiv' },
+        { src: 'images/pirates_1.jpg', meta: 'Dokumentation, Stuttgart 2024 (c) Dominique Brewing' },
+        { src: 'images/pirates_2.jpg', meta: 'Dokumentation, Stuttgart 2024 (c) Dominique Brewing' }, 
+        { src: 'images/pirates_3.jpg', meta: 'Dokumentation, Stuttgart 2024' },
+        { src: 'images/pirates_4.jpg', meta: 'Dokumentation, Stuttgart 2024 (c) Dominique Brewing' }
       ]
     },
     'depersona': {
