@@ -335,7 +335,7 @@ function showProjectPreview(key) {
       desc: 'Sexualpädagogisches Material für Jugendliche und Erwachsene, das an unterschiedliche Beziehungsformen heranführt. Mit spielerische Methode, um in Austausch und Reflektion über Wünsche, Bedürfnisse und Möglichkeiten von Beziehungsgestaltung zu kommen.',
       images: [
         { src: 'images/heteronorm_1.jpg', meta: 'Karte Wahfamilie vorne' },
-        { src: 'images/heteronorm_4.jpg', meta: 'Karte Normativität hinten' },
+        { src: 'images/heteronorm_4.png', meta: 'Karte Normativität hinten' },
         { src: 'images/heteronorm_3.jpg', meta: 'Karte Freund*innenschaft vorne' }
       ]
     },
