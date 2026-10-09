@@ -36,7 +36,7 @@ document.querySelectorAll('.start-links .link').forEach(el => {
       dynamic.innerHTML = `
         <div class="info-block">
           <p>Kai Leah Sascha Krämer aka kitschkai aka Gender Panik is an artist & gender pirate, currently based in Leipzig. What they do is informed by performance art, poetic writing and literature studies and inspired deeply by trans*feminism, punk, camp and drag. They examine how words and acts hold or break power structures – and where their performative potential lies. Interested in the body, its relationships to others, its emotions and how they become places of sociopolitical agency. Looking for laughter, joy and resistance.</p> 
-          <p>Active on and behind stages, Kai developed, collaborated and assisted in solo and group performances, theater productions, magazines. They write poetic and provocative texts, sometimes to be sung, sometimes to be read. They dj with switchiness in bpm and genre, focussing on music by FLINTA*. They're also making visual artworks.</p>
+          <p>Active on and behind stages, Kai developed, collaborated and assisted in solo and group performances, theater productions, magazines. They write poetic and provocative texts, sometimes to be sung, sometimes to be read. They dj with switchiness in bpm and genre, focussing on music by FLINTA*s. They're also making visual artworks.</p>
           <p>Kai studied Performance Art and Art Education as well as German Literature Studies in Stuttgart and Leipzig. Btw., they're also a certified Sex Educator (bkb).</p>
           <p>Thanks to all the people I learned from & with. Teachers, pupils, colleagues, friends, lovers, family, ephemeral encounters.</p>
         </div>
@@ -143,7 +143,7 @@ function showProjectPreview(key) {
     'knutschen': {
       title: 'KNUTSCHEN IST WICHTIGER ALS DEUTSCHLAND',
       year: '2024 — ongoing',
-      desc: '[Stage Name: (Kai) Gender Panik] Is a repertoire of chansons (spoken + sung) and a drag show. Es geht um um Leiden/schaft im high Performance capitalism, die Energy ist: ein bisschen Tragik, ein bisschen Narrenfreiheit, ein bisschen Kampfgeist. Performed in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig), Dieski44 (Leipzig), das anarchistische Wohnzimmer @ helmut.space (Leipzig), Ha Ha Haltung (a program by die apokalyptischen Tänzeri*nnen) @ Reniteztheater (Stuttgart), Makan Späti Leipzig. ++++ Publication in Collaboration with ccharm studio coming up ++++',
+      desc: '[Stage Name: (Kai) Gender Panik] Is a repertoire of chansons and a drag show. Es geht um um Leiden/schaft im high Performance capitalism, die Energy ist: ein bisschen Tragik, ein bisschen Narrenfreiheit, ein bisschen Kampfgeist. Performed in various spaces including: KKT (Stuttgart), Laden auf Zeit (Leipzig), das anarchistische Wohnzimmer @ Wxssxrschxdxn (Leipzig), Pixi (Leipzig), Dieski44 (Leipzig), das anarchistische Wohnzimmer @ helmut.space (Leipzig), Ha Ha Haltung (a program by die apokalyptischen Tänzeri*nnen) @ Reniteztheater (Stuttgart), Makan Späti Leipzig. ++++ Publication in Collaboration with ccharm studio coming up ++++',
       link: 'https://rankett.net/w/5AHUms5dQMy7rzWnBZsWLY',
       images: [
         { src: 'images/knutschen_6.jpeg', meta: 'Studioaufnahme, 2025' },
