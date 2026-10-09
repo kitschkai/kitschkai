@@ -442,12 +442,13 @@ function buildUpcoming() {
   return `
     <div class="info-box">
     <p>Aktuelles </p>
-    <p>Gender Kitsch Panik – alle zwei Monate auf<a href="https://www.radio80k.de"><strong> Radio80000</strong></a></p>
-    <p><a href="https://soundcloud.com/radio80000/gender-kitsch-panik-04-08-26#t=0:00"> +++ aktuelle Show vom 4.8.26+++ </a></p>
+    <p>Am 21.11. mit Knutshen ist wichtiger als Deutsxhland zu Gast bei LeClub im Schauspiel Leipzig ... more soon!</p>
+    <p>DJ-Set auf NTS: <a href="https://www.nts.live/shows/dancing-2026/episodes/dancing-2026-moods-of-the-cunt-w-kitschkai-30th-september-2026"><strong> Moods of the Cunt w/ kitschkai </strong></a>
+    <p>Gender Kitsch Panik – DJ-Set alle zwei Monate auf<a href="https://www.radio80k.de"><strong> Radio80000: </strong></a>+++<a href="https://soundcloud.com/radio80000/gender-kitsch-panik-30-09-26?utm_medium=api&utm_campaign=social_sharing&utm_source=id_314949"> 30.9.26 </a>+++<a href="https://soundcloud.com/radio80000/gender-kitsch-panik-04-08-26#t=0:00"> 4.8.26 </a>+++<a href="https://soundcloud.com/radio80000/gender-kitsch-panik-09-06-26"> 4.8.26 </a>+++</p>
     <p><a href="https://www.instagram.com/p/DcRKkFPtHZH/?stkn=MTF3YnNhOWZoNm95eg=="><strong>5.9.26</strong> Show im Makan Späti Leipzig</a></p>
     <p><a href="https://www.instagram.com/p/DZcO0gMjK8U/?igsh=MXB2Z2xocmk2azl6MQ=="> soon... Knutschen ist Wichtiger als Deutschland - <strong>Publikation</strong> (Collab. mit ccharm.studio)</a></p>
-    <p><a href="https://www.apocalypse.dance/projekte/ha-ha-haltung-2026"><strong>23.6.26</strong> Knutschen ist wichtiger als Deutschland zu Gast bei Ha Ha Haltung (Renitenztheater Stuttgart)</a></p>
-    <p><a href="https://www.instagram.com/jenny_literatur?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><strong>Juni 26</strong> Publication of "Be A Person (R)" (text) in JENNY Literaturmagazin</a></p>
+    <p>Am 23.6.26 war <a href="https://www.apocalypse.dance/projekte/ha-ha-haltung-2026"> Knutschen ist wichtiger als Deutschland zu Gast bei Ha Ha Haltung (Renitenztheater Stuttgart)</a></p>
+    <p>Juni 26:<a href="https://www.instagram.com/jenny_literatur?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="> Publication of "Be A Person (R)" (text) in JENNY Literaturmagazin</a></p>
     <p style="margin-top:10px; opacity:.6; font-size:.85rem;">(more soon) für mehr Infos zu einzelnen Sachen auch gern email oder dm auf Intagram</p>
     </div>
   `;
